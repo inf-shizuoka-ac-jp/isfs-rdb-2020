@@ -47,7 +47,7 @@ plugins:
 
 author:
   name     : "白井 靖人"
-  bio      : "情報学部行動情報学科の教授．"
+  bio      : "情報学部行動情報学科 教授"
 
 analytics:
   provider: "google"
